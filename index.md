@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## emily
 
-You can use the [editor on GitHub](https://github.com/emilyuwux3/emilyuwu.xyz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+hi im emily hiiii
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+yeaj im emily hi :3
 
-### Markdown
+### this me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+emily
 
 ```markdown
 Syntax highlighted code block
